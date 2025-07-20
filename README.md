@@ -6,6 +6,6 @@
 InfiniteTakeAim
 </h1>
 
-Gives the middle path desperado take aim ability infinite duration.
+Gives the middle path desperado take aim ability infinite duration in sandbox.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
